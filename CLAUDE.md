@@ -1,26 +1,26 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Ten plik zawiera wskazówki dla Claude Code (claude.ai/code) podczas pracy z kodem w tym repozytorium.
 
-## Project
+## Projekt
 
-**Angielski** is a VantorLab project. The name means "English" in Polish, suggesting this is an English-language learning tool aimed at Polish speakers.
+**Angielski** to projekt VantorLab. Nazwa sugeruje, że jest to narzędzie do nauki języka angielskiego skierowane do polskojęzycznych użytkowników.
 
-> **Note:** This repository is currently empty. Update this file once the project structure, tooling, and architecture are established.
+> **Uwaga:** Repozytorium jest obecnie puste. Zaktualizuj ten plik po ustaleniu struktury projektu, narzędzi i architektury.
 
-## Getting Started
+## Pierwsze kroki
 
-Once code is added, document the following here:
+Po dodaniu kodu udokumentuj tutaj:
 
-- How to install dependencies
-- How to build and run the project
-- How to run tests (full suite and individual tests)
-- How to run the linter/formatter
+- Jak zainstalować zależności
+- Jak zbudować i uruchomić projekt
+- Jak uruchomić testy (cały zestaw i pojedyncze testy)
+- Jak uruchomić linter/formatter
 
-## Architecture
+## Architektura
 
-Document the high-level architecture here once code exists — e.g., frontend/backend split, data models, API structure, key design decisions.
+Opisz tutaj wysokopoziomową architekturę po powstaniu kodu — np. podział frontend/backend, modele danych, struktura API, kluczowe decyzje projektowe.
 
-## Conventions
+## Konwencje
 
-Document project-specific conventions here — e.g., naming patterns, folder structure rationale, state management approach, API conventions.
+Opisz tutaj konwencje specyficzne dla projektu — np. wzorce nazewnictwa, uzasadnienie struktury folderów, podejście do zarządzania stanem, konwencje API.
